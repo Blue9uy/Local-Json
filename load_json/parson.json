@@ -1,0 +1,33 @@
+[
+  {
+    "name" : "Kaung Wai Hlyan",
+    "age" : "33",
+    "height"  : "172",
+    "gender"  : "male",
+    "hair_color" : "black"
+  },
+
+  {
+    "name" : "Myann Thuta",
+    "age" : "11",
+    "height"  : "172",
+    "gender"  : "male",
+    "hair_color" : "black"
+  },
+
+  {
+    "name" : "Khit Zay La",
+    "age" : "4",
+    "height"  : "172",
+    "gender"  : "male",
+    "hair_color" : "black"
+  },
+
+  {
+    "name" : "Mya Bhone Kha",
+    "age" : "3",
+    "height"  : "172",
+    "gender"  : "female",
+    "hair_color" : "black"
+  }
+]
